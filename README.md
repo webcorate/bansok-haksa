@@ -1,2 +1,3 @@
 # bansok-haksa
-The template found exclusively in http://getskel.com
+The responsive framework web design. 
+http://webcorate.com
